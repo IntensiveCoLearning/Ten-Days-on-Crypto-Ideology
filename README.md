@@ -147,6 +147,7 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 
 
 
+
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
@@ -156,5 +157,5 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 - 全勤用户: hub3r3, DarkingLee, easyshellworld
 - 淘汰人数: 14
 - 淘汰率: 58.33%
-- Fork人数: 24
+- Fork人数: 23
 <!-- STATISTICALDATA_END -->
