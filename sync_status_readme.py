@@ -8,9 +8,9 @@ import logging
 
 # Constants
 START_DATE = datetime.fromisoformat(os.environ.get(
-    'START_DATE', '2025-02-06T00:00:00+00:00')).replace(tzinfo=pytz.UTC)
+    'START_DATE', '2025-02-20T00:00:00+00:00')).replace(tzinfo=pytz.UTC)
 END_DATE = datetime.fromisoformat(os.environ.get(
-    'END_DATE', '2025-03-02T23:59:59+00:00')).replace(tzinfo=pytz.UTC)
+    'END_DATE', '2025-03-01T23:59:59+00:00')).replace(tzinfo=pytz.UTC)
 DEFAULT_TIMEZONE = 'Asia/Shanghai'
 FILE_SUFFIX = '.md'
 README_FILE = 'README.md'
@@ -395,32 +395,36 @@ def update_statistics_after_end(content, user_files):
         "fork_count": get_fork_count() or 0
     }
 
-    for user in user_files:
-        user_status = get_user_study_status(user)
-        total_days = len(get_date_range())
-        checked_days = sum(1 for status in user_status.values() if status == "✅")
-        absent_count = sum(1 for status in user_status.values() if status == "⭕️")
+    # 从表格中提取用户状态
+    start_index = content.find(TABLE_START_MARKER)
+    end_index = content.find(TABLE_END_MARKER)
+    if start_index == -1 or end_index == -1:
+        logging.error("Error: Couldn't find the table markers in README.md")
+        return content
+
+    table_content = content[start_index + len(TABLE_START_MARKER):end_index].strip()
+    table_rows = table_content.split('\n')[2:]  # 跳过表头和分隔行
+    
+    for row in table_rows:
+        user_name = extract_name_from_row(row)
+        if not user_name:
+            continue
+            
+        # 检查用户是否被淘汰（行中是否包含 ❌）
+        is_eliminated = "❌" in row
         
-        # 检查是否被淘汰（连续3天或以上缺勤）
-        max_consecutive_absent = 0
-        current_consecutive_absent = 0
-        for date in get_date_range():
-            status = user_status[date]
-            if status == "⭕️":
-                current_consecutive_absent += 1
-                max_consecutive_absent = max(max_consecutive_absent, current_consecutive_absent)
-            else:
-                current_consecutive_absent = 0
-        
-        is_eliminated = max_consecutive_absent > 2
-        
-        if not is_eliminated:
-            stats["completed_users"].append(user)
-            stats["completed_participants"] += 1
-            if checked_days == total_days:
-                stats["perfect_attendance_users"].append(user)
-        else:
+        if is_eliminated:
             stats["eliminated_participants"] += 1
+        else:
+            # 如果用户没有被淘汰，则认为已完成
+            stats["completed_users"].append(user_name)
+            stats["completed_participants"] += 1
+            
+            # 检查是否全勤（行中只有 ✅ 或空格，没有 ⭕️）
+            if "⭕️" not in row:
+                check_marks = row.count("✅")
+                if check_marks > 0:  # 至少有一个打卡记录
+                    stats["perfect_attendance_users"].append(user_name)
 
     return update_statistics(content, stats)
 
