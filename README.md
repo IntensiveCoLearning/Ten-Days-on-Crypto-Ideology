@@ -118,28 +118,29 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 | [DasNarrenschiff](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/DasNarrenschiff.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ |
 | [Coooder-Crypto](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Coooder-Crypto.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
 | [easyshellworld](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/easyshellworld.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| [Ghw2066](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Ghw2066.md) | ✅ | ✅ | ✅ | ⭕️ |   | ✅ | ⭕️ | ⭕️ | ❌ | |
+| [Ghw2066](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Ghw2066.md) | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ⭕️ | ❌ | | |
 | [luffythink](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/luffythink.md) | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
-| [minye420](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/minye420.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ❌ |
-| [wodeche](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/wodeche.md) | ⭕️ | ✅ | ⭕️ | ✅ |   | ✅ | ⭕️ | ⭕️ | ❌ | |
+| [minye420](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/minye420.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   | ✅ | ✅ | ⭕️ | ⭕️ |
+| [wodeche](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/wodeche.md) | ⭕️ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ⭕️ | ❌ | | |
 | [xueyuanhuang](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/xueyuanhuang.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
 | [DarkingLee](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/DarkingLee.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [YiShengYouNi](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/YiShengYouNi.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
-| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/pillowtalk-Qy.md) | ✅ | ✅ | ⭕️ | ✅ |   | ✅ | ⭕️ | ⭕️ | ❌ | |
-| [Yuxing11](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Yuxing11.md) | ✅ | ✅ | ✅ | ⭕️ |   | ✅ | ⭕️ | ⭕️ | ❌ | |
+| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/pillowtalk-Qy.md) | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ⭕️ | ❌ | | |
+| [Yuxing11](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Yuxing11.md) | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ⭕️ | ❌ | | |
 | [onthebigtree](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/onthebigtree.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
 | [StarryDeserts](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/StarryDeserts.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
-| [Asenlan](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Asenlan.md) | ✅ | ⭕️ | ✅ | ✅ |   | ✅ | ⭕️ | ⭕️ | ❌ | |
+| [Asenlan](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/Asenlan.md) | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ❌ | | |
 | [JacksonStack](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/JacksonStack.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |
-| [CraigCi](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/CraigCi.md) | ✅ | ✅ | ⭕️ | ⭕️ |   | ✅ | ⭕️ | ⭕️ | ❌ | |
+| [CraigCi](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/CraigCi.md) | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ✅ | ⭕️ | ❌ | | |
 | [CHENFANGC](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/CHENFANGC.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [JL_Lelouch](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/JL_Lelouch.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [narnona](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/narnona.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
-| [AlexWaker](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/AlexWaker.md) | ✅ | ✅ | ✅ | ✅ |   | ✅ | ✅ | ⭕️ | ⭕️ | ❌ |
-| [lilian79511](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/lilian79511.md) | ✅ | ✅ | ✅ | ✅ |   | ✅ | ⭕️ | ✅ | ⭕️ | ❌ |
+| [AlexWaker](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/AlexWaker.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ❌ | |
+| [lilian79511](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/lilian79511.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ❌ | |
 | [hub3r3](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/hub3r3.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [abelking](https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/blob/main/abelking.md) | ⭕️ | ⭕️ | ❌ | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
@@ -532,10 +533,10 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 ## 统计数据
 
 - 总参与人数: 24
-- 完成人数: 8
-- 完成用户: DasNarrenschiff, easyshellworld, luffythink, DarkingLee, JacksonStack, CHENFANGC, JL_Lelouch, hub3r3
+- 完成人数: 9
+- 完成用户: DasNarrenschiff, easyshellworld, luffythink, minye420, DarkingLee, JacksonStack, CHENFANGC, JL_Lelouch, hub3r3
 - 全勤用户: easyshellworld, DarkingLee, hub3r3
-- 淘汰人数: 16
-- 淘汰率: 66.67%
+- 淘汰人数: 15
+- 淘汰率: 62.50%
 - Fork人数: 21
 <!-- STATISTICALDATA_END -->
